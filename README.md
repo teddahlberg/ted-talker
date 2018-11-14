@@ -1,6 +1,6 @@
 # Ted Talker 
 This is a small app i made using the Web Speech API.
-For mor documentation visit MDN.
+For more documentation visit MDN.
 
 Note that you need to host a local http server for this to work, and you need to use Google Chrome as your browser.
 
